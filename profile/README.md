@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="./logo.png" width="200" >
+</div>
+
 <h1 align=center>UpMath 💼</h1>
 <md-divider></md-divider>
 
